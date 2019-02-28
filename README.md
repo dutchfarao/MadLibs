@@ -19,4 +19,4 @@ Choose a story in the homescreen an put in the appropriate words. This will resu
 
 ```
 ## Credits
-Made by Darian El Sayed for de Universiteit van Amsterdam, artwork Mr. Potatohead by Victoria Kirst.
+Made by Darian El Sayed for de Universiteit van Amsterdam.
